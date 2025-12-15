@@ -1,5 +1,11 @@
-## Hi there 👋
+**Current projects:**
 
+Using RedBack to do spectral analysis on type Ib/Ic supernovae
+Creating systems for Purdue Space Program Active Controls
+Updating software for Purdue Lunabotics
+
+**Languages:**
+Python, React, HTML, Javascript, Java, C++
 <!--
 **Icequeen3333/icequeen3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
