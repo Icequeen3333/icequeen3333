@@ -4,7 +4,7 @@ Using RedBack to do spectral analysis on type Ib/Ic supernovae
 
 Creating systems for Purdue Space Program Active Controls
 
-Updating software for Purdue Lunabotics
+Crater Generation software for Purdue Lunabotics
 
 
 **Languages:**
